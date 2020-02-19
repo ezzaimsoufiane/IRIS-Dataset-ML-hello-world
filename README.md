@@ -1,6 +1,6 @@
 # Machine Learning : Hello World
 
-Folling around with the IRIS Dataset, because why not.
+Fooling around with the IRIS Dataset, because why not.
 Using scikit-learn & Keras for classifying Iris flower.
 
 ## Iris Dataset
